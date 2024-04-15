@@ -79,33 +79,33 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ##  Data.head():
 
-     ![Screenshot 2024-04-15 035837](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/203ddd65-b86f-4014-98af-aacf3b9b3be9)
+  ![Screenshot 2024-04-15 035837](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/203ddd65-b86f-4014-98af-aacf3b9b3be9)
 
 
 ##   Data.info():
-        ![Screenshot 2024-04-15 040000](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/8c185ecf-3457-434a-b008-429ff02cb33f)
+![Screenshot 2024-04-15 040000](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/8c185ecf-3457-434a-b008-429ff02cb33f)
 
    
 ##  isnull() and sum():    
-      ![Screenshot 2024-04-15 040218](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/c1c150a6-1aa9-40f4-8f95-97cbeed2e7c7)
+![Screenshot 2024-04-15 040218](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/c1c150a6-1aa9-40f4-8f95-97cbeed2e7c7)
 
 
 ##    Data Value Counts():
-    ![Screenshot 2024-04-15 040230](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/b07718ec-e447-4740-8b8a-f5fc6328995f)
+![Screenshot 2024-04-15 040230](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/b07718ec-e447-4740-8b8a-f5fc6328995f)
 
 
 ##   Data.head() for salary:
-    ![Screenshot 2024-04-15 040411](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/c8a43d3e-b427-4cf5-96ef-707fd3935647)
+   ![Screenshot 2024-04-15 040411](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/c8a43d3e-b427-4cf5-96ef-707fd3935647)
 
 
 ##   x.head:
-     ![Screenshot 2024-04-15 040419](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/9c1f4de9-043a-4d60-914d-981d53d02e3f)
+![Screenshot 2024-04-15 040419](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/9c1f4de9-043a-4d60-914d-981d53d02e3f)
 
 ##    Accuracy Value:
-      ![Screenshot 2024-04-15 040425](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/947fef8a-1cb4-4ab8-b169-52eb8bd80e30)
+![Screenshot 2024-04-15 040425](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/947fef8a-1cb4-4ab8-b169-52eb8bd80e30)
 
 ##   Data Prediction:
-     ![Screenshot 2024-04-15 040500](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/428b286a-ee1a-4c8a-97e8-1acfa48626e4)
+   ![Screenshot 2024-04-15 040500](https://github.com/23013743/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161271714/428b286a-ee1a-4c8a-97e8-1acfa48626e4)
 
 
 ## Result:
